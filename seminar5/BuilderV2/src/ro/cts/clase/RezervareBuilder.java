@@ -5,6 +5,7 @@ public class RezervareBuilder implements AbstractBuilder {
     private Rezervare rezervare;
 
     public RezervareBuilder(String numeClient){
+
         rezervare= new Rezervare(numeClient,false,false,false,"faraMuzica");
     }
 
