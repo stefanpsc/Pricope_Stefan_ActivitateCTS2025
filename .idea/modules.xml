@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/seminar5/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/seminar5/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_2025.iml" filepath="$PROJECT_DIR$/CTS_2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/seminar8/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/seminar8/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/preagatiretTestBuilderV2/preagatiretTestBuilderV2.iml" filepath="$PROJECT_DIR$/preagatiretTestBuilderV2/preagatiretTestBuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" filepath="$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" />
@@ -12,12 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/pregatireTestFactoryv2/pregatireTestFactoryv2.iml" filepath="$PROJECT_DIR$/pregatireTestFactoryv2/pregatireTestFactoryv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestPrototype/pregatireTestPrototype.iml" filepath="$PROJECT_DIR$/pregatireTestPrototype/pregatireTestPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestSingleton/pregatireTestSingleton.iml" filepath="$PROJECT_DIR$/pregatireTestSingleton/pregatireTestSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8/proxi/proxi.iml" filepath="$PROJECT_DIR$/seminar8/proxi/proxi.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/seminar5.iml" filepath="$PROJECT_DIR$/seminar5/seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6/seminar6.iml" filepath="$PROJECT_DIR$/seminar6/seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8/seminar8.iml" filepath="$PROJECT_DIR$/seminar8/seminar8.iml" />
     </modules>
   </component>
 </project>
