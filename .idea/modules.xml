@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/seminar8/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar10/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/seminar10/FlyWeight/FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Strategy/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer_Strategy/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Strategy/Observer_Strategy.iml" filepath="$PROJECT_DIR$/Observer_Strategy/Observer_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Strategy/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Observer_Strategy/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar10/Template/Template.iml" filepath="$PROJECT_DIR$/seminar10/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/preagatiretTestBuilderV2/preagatiretTestBuilderV2.iml" filepath="$PROJECT_DIR$/preagatiretTestBuilderV2/preagatiretTestBuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" filepath="$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" />
