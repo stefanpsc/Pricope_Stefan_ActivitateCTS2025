@@ -9,6 +9,6 @@ public class AdaptorClaseMedicament  extends MedicamentSpital implements IMedica
 
     @Override
     public void cumparaMedicament() {
-
+        super.achizitioneazaMedicament();
     }
 }
