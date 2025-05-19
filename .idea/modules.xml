@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/seminar10/Template/Template.iml" filepath="$PROJECT_DIR$/seminar10/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/preagatiretTestBuilderV2/preagatiretTestBuilderV2.iml" filepath="$PROJECT_DIR$/preagatiretTestBuilderV2/preagatiretTestBuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2Adapter/pregatireTest2Adapter.iml" filepath="$PROJECT_DIR$/pregatireTest2Adapter/pregatireTest2Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2Decorator/pregatireTest2Decorator.iml" filepath="$PROJECT_DIR$/pregatireTest2Decorator/pregatireTest2Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2Decoratorv2/pregatireTest2Decoratorv2.iml" filepath="$PROJECT_DIR$/pregatireTest2Decoratorv2/pregatireTest2Decoratorv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2Facade/pregatireTest2Facade.iml" filepath="$PROJECT_DIR$/pregatireTest2Facade/pregatireTest2Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" filepath="$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestFactory/pregatireTestFactory.iml" filepath="$PROJECT_DIR$/pregatireTestFactory/pregatireTestFactory.iml" />
