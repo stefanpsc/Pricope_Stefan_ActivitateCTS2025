@@ -3,6 +3,7 @@ package ro.cts.AdapterClase.Main;
 import ro.cts.AdapterClase.Clase.AdaptorClaseMedicament;
 import ro.cts.AdapterClase.Clase.Farmacie;
 import ro.cts.AdapterClase.Clase.MedicamentFarmacie;
+import ro.cts.AdapterClase.Clase.MedicamentSpital;
 
 public class Main {
     public static void main(String[] args){
@@ -15,6 +16,7 @@ public class Main {
 
         AdaptorClaseMedicament adaptorClaseMedicament = new AdaptorClaseMedicament("Aspacardin",500);
         farmacie.vindeMedicamente(adaptorClaseMedicament);
+
 
     }
 }
