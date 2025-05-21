@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2FlyWeight/pregatireTest2FlyWeight.iml" filepath="$PROJECT_DIR$/pregatireTest2FlyWeight/pregatireTest2FlyWeight.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2FlyWeightv1/pregatireTest2FlyWeightv1.iml" filepath="$PROJECT_DIR$/pregatireTest2FlyWeightv1/pregatireTest2FlyWeightv1.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2Proxi/pregatireTest2Proxi.iml" filepath="$PROJECT_DIR$/pregatireTest2Proxi/pregatireTest2Proxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2Proxiv1/pregatireTest2Proxiv1.iml" filepath="$PROJECT_DIR$/pregatireTest2Proxiv1/pregatireTest2Proxiv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2Template/pregatireTest2Template.iml" filepath="$PROJECT_DIR$/pregatireTest2Template/pregatireTest2Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" filepath="$PROJECT_DIR$/pregatireTestBuilder/pregatireTestBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestFactory/pregatireTestFactory.iml" filepath="$PROJECT_DIR$/pregatireTestFactory/pregatireTestFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTestFactoryMethod/pregatireTestFactoryMethod.iml" filepath="$PROJECT_DIR$/pregatireTestFactoryMethod/pregatireTestFactoryMethod.iml" />
