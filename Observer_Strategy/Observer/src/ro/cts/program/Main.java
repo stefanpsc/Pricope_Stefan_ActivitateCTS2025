@@ -17,7 +17,7 @@ public class Main {
         autobuz.adaugaObserver(calator3);
         autobuz.pleacaDeLaCapat();
 
-        autobuz.stergeObserver(calator2);
-        ((Autobuz)autobuz).schimbaTraseu();
+        //autobuz.stergeObserver(calator2);
+        //((Autobuz)autobuz).schimbaTraseu();
     }
 }

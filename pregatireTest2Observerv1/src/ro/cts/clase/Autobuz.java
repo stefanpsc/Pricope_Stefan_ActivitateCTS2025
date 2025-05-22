@@ -1,15 +1,15 @@
 package ro.cts.clase;
 
-public class Autobuz extends  MijlocDeTransport{
+import ro.cts.main.Main;
 
-
+public class Autobuz extends MijlocDeTransport {
     public Autobuz(int nrLinie) {
         super(nrLinie);
     }
 
     @Override
     public void pleacaDeLaCapat() {
-        trimiteMesaj("Autobuzul de la linia " + this.getNrLinie()+ " pleaca de la capat");
+        trimiteMesaj("Autobuzul de la linia " + this.getNrLinie()+" pleaca de la capat");
     }
 
     public void schimbaTraseu(){
